@@ -1,12 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Tarik Jukan  
 
-GitHub username:
+GitHub username: tarikjukan
 
 ---
 
@@ -40,7 +41,8 @@ feature-intro
 
 Na toj grani dodajte novu sekciju:
 
-Uvod
+Uvod:
+    Ja sam Tarik Jukan i dolazim iz Gradačca. Fascinira me računarski hardver i uživam prateći njegov napredak iz godine u godinu, a posebno me zanimaju serverske tehnologije. U slobodno vrijeme volim povremeno svirati gitaru, ići u teretanu, putovati i upoznavati nove ljude. Iako sam u početku možda malo stidljiv, kada se bolje upoznam sa nekim, totalno sam drugačija osoba koja se voli šaliti.
 
 Napišite 2–3 rečenice o sebi.
 
@@ -65,7 +67,7 @@ conflict-test
 
 U ovom fajlu pronađite sljedeću rečenicu i izmijenite je:
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
 
 Promijenite je u:
 
