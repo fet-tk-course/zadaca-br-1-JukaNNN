@@ -41,7 +41,8 @@ feature-intro
 
 Na toj grani dodajte novu sekciju:
 
-Uvod
+Uvod:
+    Ja sam Tarik Jukan i dolazim iz Gradačca. Fascinira me računarski hardver i uživam prateći njegov napredak iz godine u godinu, a posebno me zanimaju serverske tehnologije. U slobodno vrijeme volim povremeno svirati gitaru, ići u teretanu, putovati i upoznavati nove ljude. Iako sam u početku možda malo stidljiv, kada se bolje upoznam sa nekim, totalno sam drugačija osoba koja se voli šaliti.
 
 Napišite 2–3 rečenice o sebi.
 
